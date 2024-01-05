@@ -1,1 +1,2 @@
 # myntra-clone
+This Myntra clone is a web application built using HTML, CSS, and JavaScript. It features a product listing, search functionality, and a shopping cart, just like Myntra. The clone is also designed to be responsive, ensuring a seamless shopping experience across different devices. The code and files for this clone are available on GitHub. You can clone it and run it on your system to showcase your own products. 
